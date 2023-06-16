@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
@@ -12,18 +13,27 @@ class Program
 {
     static void Main(string[] args)
     {
-        /* No supe hacerlo.
+        
+
+        // GENERIC HOST 6)
         Host.CreateDefaultBuilder(args)
         .ConfigureServices(services =>
         {
-            services.AddHostedService<HostedService>();
+            
+            services.AddHostedService<Logg>();
         })
         .Build()
         .RunAsync();
-        */
-        int bin = -7;
+        
+
+
+        //7)
+        int bin = 7;
         Console.WriteLine(Convert.ToString(bin, toBase:2).PadLeft(32,'0'));
 
+
+
+        
         Console.Title = "Calculadora";
         string resp = "";
         Calculadora calculadora = new Calculadora();
