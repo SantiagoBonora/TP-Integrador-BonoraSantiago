@@ -1,0 +1,15 @@
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\bin\Debug\net7.0\TP-Integrador-BonoraSantiago.exe
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\bin\Debug\net7.0\TP-Integrador-BonoraSantiago.deps.json
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\bin\Debug\net7.0\TP-Integrador-BonoraSantiago.runtimeconfig.json
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\bin\Debug\net7.0\TP-Integrador-BonoraSantiago.dll
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\bin\Debug\net7.0\TP-Integrador-BonoraSantiago.pdb
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.AssemblyInfo.cs
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.dll
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\refint\TP-Integrador-BonoraSantiago.dll
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.pdb
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\TP-Integrador-BonoraSantiago.genruntimeconfig.cache
+C:\Users\santi\Desktop\Santi\.vscode\EjemploVSCode\.vscode\Programacion\Programación 5\TP-Integrador-BonoraSantiago\obj\Debug\net7.0\ref\TP-Integrador-BonoraSantiago.dll
