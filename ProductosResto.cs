@@ -22,23 +22,17 @@ public class ProductosResto
     return this.Precio;
     }
 
-        public override bool Equals(object? obj)
-        {
-            var p = obj as ProductosResto;
-            if (p != null){
-                return p.Id == Id;
-            }
-            return false;
+    public override bool Equals(object? obj)
+    {
+        var p = obj as ProductosResto;
+        if (p != null){
+            return p.Id == Id;
         }
+        return false;
+    }
 
-
-
-
-
-
-
-
-
-
-
+    public override int GetHashCode()
+    {
+        throw new NotImplementedException();
+    }
 }
