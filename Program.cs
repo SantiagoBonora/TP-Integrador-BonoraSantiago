@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-    static async void Main(string[] args)
+    static void Main(string[] args)
     {
         /* No supe hacerlo.
         Host.CreateDefaultBuilder(args)
@@ -21,6 +21,8 @@ class Program
         .Build()
         .RunAsync();
         */
+        int bin = -7;
+        Console.WriteLine(Convert.ToString(bin, toBase:2).PadLeft(32,'0'));
 
         Console.Title = "Calculadora";
         string resp = "";

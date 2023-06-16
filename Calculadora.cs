@@ -31,7 +31,7 @@ public class Calculadora
     public float Promedio()
     {
         int X = 0,N = 0;
-        float n,num,suma= 0;
+        float num,suma= 0;
         Console.WriteLine("Ingrese la cantidad de numeros a promediar");
         N = int.Parse(Console.ReadLine());
         while (X < N)
