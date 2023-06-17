@@ -27,9 +27,16 @@ class Program
         
 
 
-        //7)
-        int bin = 7;
-        Console.WriteLine(Convert.ToString(bin, toBase:2).PadLeft(32,'0'));
+        // Cree una clase con métodos donde utilice los operadores de asignación compuesta +=,
+        //  ++, &, ||, ?. Adicionalmente agregue un caso donde dado el número -7 (base 10) en 32
+        //bits donde desplace el bit mas significativo realizando un desplazamiento aritmético, y
+        //calcule el resultado final en base 10.
+
+        
+        int bin = -7;
+        Console.WriteLine(Convert.ToString(bin>>>1, toBase:2).PadLeft(32,'0'));
+        Console.WriteLine(bin>>>1);
+
 
 
 
