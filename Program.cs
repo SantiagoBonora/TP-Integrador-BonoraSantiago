@@ -32,10 +32,12 @@ class Program
         //bits donde desplace el bit mas significativo realizando un desplazamiento aritmético, y
         //calcule el resultado final en base 10.
 
-        
+
         int bin = -7;
         Console.WriteLine(Convert.ToString(bin>>>1, toBase:2).PadLeft(32,'0'));
+        Console.WriteLine(Convert.ToString(bin>>>1, toBase:10));
         Console.WriteLine(bin>>>1);
+
 
 
 
